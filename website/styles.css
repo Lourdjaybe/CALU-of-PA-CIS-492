@@ -1,0 +1,30 @@
+a{
+color: black;
+}
+a:llnk {
+color:black;
+}
+a:visited{
+color:black;
+}
+a:hover{
+color:red;
+}
+a:active{
+color: red;
+}
+p {
+color: black;
+font-family: Lato,Helvetica,Arial,sans-serif;
+font-size: 12px;
+}
+h1 {
+color: black;
+font-family: Lato,Helvetica,Arial,sans-serif;
+font-size: 2pc;
+}
+h2 {
+color: red;
+font-family: Lato,Helvetica,Arial,sans-serif;
+font-size: 21px;
+}
