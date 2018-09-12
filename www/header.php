@@ -7,10 +7,6 @@
 	<link rel="shortcut icon" type="image/png" href="./images/favicon.png"/>
   </head>
   <body>
-    <script type="text/javascript" src=""></script>
-    <script>
-        // Javascript inside this file
-        </script>
     <center>
       <header> <img src="./images/CALU%20LOGO.PNG" alt="CALU of PA" title="CALU of PA">
         <h1>
