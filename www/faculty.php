@@ -3,6 +3,7 @@
     <script>
         //insert any javascript here
         </script>
+		<center>
       <table style="width: 75%; height: 247px;" border="0">
         <tbody>
           <tr>
@@ -17,4 +18,5 @@
           </tr>
         </tbody>
       </table>
+	  </center>
 <?php include('footer.php'); ?>
